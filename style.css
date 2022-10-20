@@ -1,0 +1,13 @@
+.box-container , .inner{
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgb(153, 52, 111);
+}
+.box-container{
+    background-color: rgb(84, 168, 63);
+    
+}
+.inner{
+    background-color: rgb(41, 87, 105);
+    transform: scale(.55) rotate(45deg);
+}
